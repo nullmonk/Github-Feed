@@ -81,6 +81,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Generic Signatures - https://github.com/Neo23x0/sigma
 - Threat hunting - https://github.com/MatthewDemaske/ThreatHuntingStuff
 - Golang Tutorial - https://github.com/parsiya/Hacking-with-Go
+- Web App Hacking "Class" - https://github.com/Hacker0x01/hacker101
 
 
 ## Lists
