@@ -11,6 +11,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Scrape Twitter without an API - https://github.com/haccer/twint
 - Linked In - https://github.com/0x09AL/raven
 - OSInt Lists - https://github.com/IVMachiavelli/OSINT_Team_Links
+- Github Secrets finder - https://github.com/dxa4481/truffleHog
 
 ## Linux Advanced Tools
 - Pop the kernel - https://github.com/spencerdodd/kernelpop
@@ -79,6 +80,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Threat Hunting Guide - https://github.com/A3sal0n/CyberThreatHunting
 - Generic Signatures - https://github.com/Neo23x0/sigma
 - Threat hunting - https://github.com/MatthewDemaske/ThreatHuntingStuff
+- Golang Tutorial - https://github.com/parsiya/Hacking-with-Go
+
 
 ## Lists
 - https://github.com/coreb1t/awesome-pentest-cheat-sheets
