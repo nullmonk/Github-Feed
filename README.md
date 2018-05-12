@@ -92,6 +92,7 @@ Repositories that I have found and liked, There was too many in my stars
 
 
 ## Random
+- Pentest Vuln Scanner - https://github.com/1N3/Sn1per
 - MSF knockoff - https://github.com/spencerdodd/pysploit
 - Obfuscate IP addresses - https://github.com/D4Vinci/Cuteit
 - Wordlist Generator - https://github.com/D4Vinci/elpscrk
