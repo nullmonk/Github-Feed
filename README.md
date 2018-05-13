@@ -69,6 +69,7 @@ Repositories that I have found and liked, There was too many in my stars
 
 ## Frameworks
 - Router Exploitation - https://github.com/threat9/routersploit
+- Router Exploitation - https://github.com/DaniLabs/rexploit
 - Printer Exploitation - https://github.com/RUB-NDS/PRET
 - Wireless Pentesting Framework - https://github.com/Tylous/SniffAir
 
