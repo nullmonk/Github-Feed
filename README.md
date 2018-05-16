@@ -83,6 +83,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Threat hunting - https://github.com/MatthewDemaske/ThreatHuntingStuff
 - Golang Tutorial - https://github.com/parsiya/Hacking-with-Go
 - Web App Hacking "Class" - https://github.com/Hacker0x01/hacker101
+- x86 and Shellcode Tutorials - https://github.com/Kan1shka9/x86-Assembly-Language-and-Shellcoding-on-Linux
 
 
 ## Lists
