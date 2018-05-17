@@ -27,7 +27,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Steal SSH Passwords, Better mimipenguin - https://github.com/blendin/3snake
 - Steal passwords from memory - https://github.com/huntergregal/mimipenguin
 - Reverse SSH command execution - https://github.com/feexd/vbg
-
+- Linux Exploit Suggester 2 - https://github.com/jondonas/linux-exploit-suggester-2
 
 
 ## Linux Random Scripts
