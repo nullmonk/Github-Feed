@@ -91,9 +91,11 @@ Repositories that I have found and liked, There was too many in my stars
 - List of Lists - https://github.com/danielmiessler/SecLists
 - Rootkit List - https://github.com/FingerLeakers/RootKits-List-Download
 - Blackhat Tools - https://github.com/toolswatch/blackhat-arsenal-tools
-- Red team toolss - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- Red team tools - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 - Hacking tools - https://github.com/EgeBalci/Mass-Hacker-Arsenal
 - More tools - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+- Wargames - https://github.com/zardus/wargame-nexus
+
 
 
 
@@ -107,4 +109,5 @@ Repositories that I have found and liked, There was too many in my stars
 - Auto Crack Responder Hashes - https://github.com/praetorian-inc/gladius
 - Scrape already cracked hashes - https://github.com/UltimateHackers/Hash-Buster
 - Gmail C2 - https://github.com/byt3bl33d3r/gcat
+- Make Honeypots seem realistic - https://github.com/0x4D31/honeybits
 - Callback through various types (Add gawk, ex. to this) - https://github.com/0x00-0x00/Shellkiller/blob/master/shellkiller.sh
