@@ -95,6 +95,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Hacking tools - https://github.com/EgeBalci/Mass-Hacker-Arsenal
 - More tools - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 - Wargames - https://github.com/zardus/wargame-nexus
+- Massive tutorial list of how to build stuff - https://github.com/danistefanovic/build-your-own-x
 
 
 
