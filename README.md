@@ -96,6 +96,7 @@ Repositories that I have found and liked, There was too many in my stars
 - More tools - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 - Wargames - https://github.com/zardus/wargame-nexus
 - Massive tutorial list of how to build stuff - https://github.com/danistefanovic/build-your-own-x
+- AWS Hacking Tool - https://github.com/carnal0wnage/weirdAAL
 
 
 
