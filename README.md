@@ -67,6 +67,7 @@ Repositories that I have found and liked, There was too many in my stars
 - MITM DNS - https://github.com/LeonardoNve/dns2proxy
 - Strip SSL - https://github.com/LeonardoNve/sslstrip2
 - Automatic Infrastructure - https://github.com/obscuritylabs/RAI
+- C2 Concept using a broswer - https://github.com/Arno0x/WSC2
 
 
 
