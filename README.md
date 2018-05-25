@@ -11,6 +11,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Scrape Twitter without an API - https://github.com/haccer/twint
 - Linked In - https://github.com/0x09AL/raven
 - OSInt Lists - https://github.com/IVMachiavelli/OSINT_Team_Links
+- Mass OSINT list - https://github.com/jivoi/awesome-osint
 - Github Secrets finder - https://github.com/dxa4481/truffleHog
 
 ## Linux Advanced Tools
@@ -54,6 +55,8 @@ Repositories that I have found and liked, There was too many in my stars
 ## Windows Defensive
 - TCP Monitoring - https://github.com/R-Smith/tcpTrigger
 - CSC Monitoring - https://github.com/glinares/CSCGuard
+- Dump in-memory code modifications - https://github.com/hasherezade/pe-sieve
+- Automate Virus/Cleanup tasks - https://github.com/bmrf/tron
 
 ## General Red team
 - Auto Install Pentest Tools - https://github.com/trustedsec/ptf
@@ -63,6 +66,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Get Passwords - https://github.com/AlessandroZ/LaZagne
 - MITM DNS - https://github.com/LeonardoNve/dns2proxy
 - Strip SSL - https://github.com/LeonardoNve/sslstrip2
+- Automatic Infrastructure - https://github.com/obscuritylabs/RAI
 
 
 
@@ -97,6 +101,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Wargames - https://github.com/zardus/wargame-nexus
 - Massive tutorial list of how to build stuff - https://github.com/danistefanovic/build-your-own-x
 - AWS Hacking Tool - https://github.com/carnal0wnage/weirdAAL
+- Random PDFs - https://github.com/jivoi/offsec_pdfs
 
 
 
