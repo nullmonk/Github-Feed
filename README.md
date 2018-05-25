@@ -107,7 +107,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Random PDFs - https://github.com/jivoi/offsec_pdfs
 
 
-
+## Reverse Engineering
+- Auto disassembler - https://github.com/isislab/dispatch
 
 ## Random
 - Pentest Vuln Scanner - https://github.com/1N3/Sn1per
