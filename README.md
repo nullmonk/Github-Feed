@@ -56,6 +56,10 @@ Repositories that I have found and liked, There was too many in my stars
 - Random PS - https://github.com/Kevin-Robertson/Powermad
 - Find Executables for DLL Hijacking - https://github.com/MojtabaTajik/Robber
 - Python mimikatz - https://github.com/skelsec/pypykatz
+- Automate Bloodhound attack paths - https://github.com/GoFetchAD/GoFetch
+- Bloodhound attacking - https://github.com/porterhau5/BloodHound-Owned
+- Mini VNC server for redteam - https://github.com/rsmudge/vncdll
+
 
 
 ## Windows Defensive
@@ -63,6 +67,7 @@ Repositories that I have found and liked, There was too many in my stars
 - CSC Monitoring - https://github.com/glinares/CSCGuard
 - Dump in-memory code modifications - https://github.com/hasherezade/pe-sieve
 - Automate Virus/Cleanup tasks - https://github.com/bmrf/tron
+- Find WMI persistence - https://github.com/darkquasar/WMI_Persistence
 
 ## General Red team
 - Auto Install Pentest Tools - https://github.com/trustedsec/ptf
