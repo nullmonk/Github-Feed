@@ -38,7 +38,7 @@ Repositories that I have found and liked, There was too many in my stars
 - privesc/postexp - https://github.com/darkerego/0hw3ll
 - privesc/postexp - https://github.com/rebootuser/LinEnum
 
-# Linux Defensive
+## Linux Defensive
 - Change detection - https://github.com/anvilventures/dawgmon
 
 
@@ -74,6 +74,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Strip SSL - https://github.com/LeonardoNve/sslstrip2
 - Automatic Infrastructure - https://github.com/obscuritylabs/RAI
 - C2 Concept using a broswer - https://github.com/Arno0x/WSC2
+- Go Ransomware - https://github.com/redpois0n/cry
+- Secrets collector in Go - https://github.com/ahhh/GoRedLoot
 
 
 
