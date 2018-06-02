@@ -21,6 +21,8 @@ Repositories that I have found and liked, There was too many in my stars
 - More Process injection - https://github.com/GDSSecurity/Cexigua
 - Share the console - https://github.com/0xffffe001/teleconsole
 - Share the console again - https://github.com/nopernik/SSHPry2.0
+- Pfsense Malware - https://github.com/joe-graham/dad-and-son
+
 
 ## Linux Small Tools
 - PHP shell - https://github.com/mempodippy/snodew
@@ -29,6 +31,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Steal passwords from memory - https://github.com/huntergregal/mimipenguin
 - Reverse SSH command execution - https://github.com/feexd/vbg
 - Linux Exploit Suggester 2 - https://github.com/jondonas/linux-exploit-suggester-2
+- Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
 
 
 ## Linux Random Scripts
@@ -51,6 +54,9 @@ Repositories that I have found and liked, There was too many in my stars
 - WMI Provider - https://github.com/0xbadjuju/WheresMyImplant
 - Elevaion - https://github.com/phroxvs/SysmonElevator
 - Random PS - https://github.com/Kevin-Robertson/Powermad
+- Find Executables for DLL Hijacking - https://github.com/MojtabaTajik/Robber
+- Python mimikatz - https://github.com/skelsec/pypykatz
+
 
 ## Windows Defensive
 - TCP Monitoring - https://github.com/R-Smith/tcpTrigger
@@ -78,6 +84,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Printer Exploitation - https://github.com/RUB-NDS/PRET
 - Wireless Pentesting Framework - https://github.com/Tylous/SniffAir
 - WebApp pentesting Framework - https://github.com/owtf/owtf
+- MITM Framwork - https://github.com/byt3bl33d3r/MITMf
+- Wireless Auditing Framework - https://github.com/v1s1t0r1sh3r3/airgeddon
 
 
 ## Knowledge
@@ -92,6 +100,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Web App Hacking "Class" - https://github.com/Hacker0x01/hacker101
 - x86 and Shellcode Tutorials - https://github.com/Kan1shka9/x86-Assembly-Language-and-Shellcoding-on-Linux
 - OSCP Notes and Help - https://github.com/ferreirasc/oscp
+- Massive Repository of scripts for pentesting - https://github.com/maldevel/PenTestKit
 
 
 ## Lists
@@ -122,4 +131,5 @@ Repositories that I have found and liked, There was too many in my stars
 - Scrape already cracked hashes - https://github.com/UltimateHackers/Hash-Buster
 - Gmail C2 - https://github.com/byt3bl33d3r/gcat
 - Make Honeypots seem realistic - https://github.com/0x4D31/honeybits
-- Callback through various types (Add gawk, ex. to this) - https://github.com/0x00-0x00/Shellkiller/blob/master/shellkiller.sh
+- Callback through various types (Add gawk, ex. to this) - https://github.com/0x00-0x00/Shellkiller/
+- C2 Via FireFox Send - https://github.com/dsnezhkov/foxtrot
