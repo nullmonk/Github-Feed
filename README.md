@@ -22,12 +22,14 @@ Repositories that I have found and liked, There was too many in my stars
 - Share the console - https://github.com/0xffffe001/teleconsole
 - Share the console again - https://github.com/nopernik/SSHPry2.0
 - Pfsense Malware - https://github.com/joe-graham/dad-and-son
+- Shellcode inject - https://github.com/Srakai/Adun
 
 
 ## Linux Small Tools
 - PHP shell - https://github.com/mempodippy/snodew
 - Fake sudo - https://github.com/xorond/sudo-snooper
 - Steal SSH Passwords, Better mimipenguin - https://github.com/blendin/3snake
+- Steal SSH Passwords - https://github.com/mthbernardes/sshLooter
 - Steal passwords from memory - https://github.com/huntergregal/mimipenguin
 - Reverse SSH command execution - https://github.com/feexd/vbg
 - Linux Exploit Suggester 2 - https://github.com/jondonas/linux-exploit-suggester-2
@@ -40,6 +42,7 @@ Repositories that I have found and liked, There was too many in my stars
 
 ## Linux Defensive
 - Change detection - https://github.com/anvilventures/dawgmon
+- Blue team scripts (might not be good) - https://github.com/maldevel/blue-team
 
 
 ## Windows Offensive
@@ -81,7 +84,7 @@ Repositories that I have found and liked, There was too many in my stars
 - C2 Concept using a broswer - https://github.com/Arno0x/WSC2
 - Go Ransomware - https://github.com/redpois0n/cry
 - Secrets collector in Go - https://github.com/ahhh/GoRedLoot
-
+- Gscript Examples - https://github.com/ahhh/gscripts
 
 
 
@@ -140,3 +143,4 @@ Repositories that I have found and liked, There was too many in my stars
 - Make Honeypots seem realistic - https://github.com/0x4D31/honeybits
 - Callback through various types (Add gawk, ex. to this) - https://github.com/0x00-0x00/Shellkiller/
 - C2 Via FireFox Send - https://github.com/dsnezhkov/foxtrot
+- Inject Code into Chrome Extensions - https://github.com/6IX7ine/cromos
