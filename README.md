@@ -34,6 +34,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Reverse SSH command execution - https://github.com/feexd/vbg
 - Linux Exploit Suggester 2 - https://github.com/jondonas/linux-exploit-suggester-2
 - Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
+- Pam Backdoor - https://github.com/jrozner/poovey/tree/master/module
 
 
 ## Linux Random Scripts
@@ -126,6 +127,8 @@ Repositories that I have found and liked, There was too many in my stars
 - AWS Hacking Tool - https://github.com/carnal0wnage/weirdAAL
 - Random PDFs - https://github.com/jivoi/offsec_pdfs
 
+## Pentesting
+- Scraper, Scanner, Info gatherer - https://github.com/Tuhinshubhra/RED_HAWK
 
 ## Reverse Engineering
 - Auto disassembler - https://github.com/isislab/dispatch
