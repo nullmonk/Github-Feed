@@ -92,7 +92,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Android dynamic analysis - https://github.com/ac-pm/Inspeckage
 - Frida Frontend for android - https://github.com/nccgroup/house
 - List of mobile tools - https://github.com/ashishb/android-security-awesome
-
+- Security assessment tool - https://github.com/mwrlabs/drozer
+- Android unpacker - https://github.com/strazzere/android-unpacker
 
 ## Frameworks
 - Router Exploitation - https://github.com/threat9/routersploit
