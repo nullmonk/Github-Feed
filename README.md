@@ -87,6 +87,11 @@ Repositories that I have found and liked, There was too many in my stars
 - Secrets collector in Go - https://github.com/ahhh/GoRedLoot
 - Gscript Examples - https://github.com/ahhh/gscripts
 
+## Mobile
+- Android dynamic analysis - https://github.com/pjlantz/droidbox
+- Android dynamic analysis - https://github.com/ac-pm/Inspeckage
+- Frida Frontend for android - https://github.com/nccgroup/house
+- List of mobile tools - https://github.com/ashishb/android-security-awesome
 
 
 ## Frameworks
