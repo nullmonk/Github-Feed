@@ -97,6 +97,8 @@ Repositories that I have found and liked, There was too many in my stars
 - List of mobile tools - https://github.com/ashishb/android-security-awesome
 - Security assessment tool - https://github.com/mwrlabs/drozer
 - Android unpacker - https://github.com/strazzere/android-unpacker
+- Android app analysis - https://github.com/ernw/AndroTickler
+- Reverse APK's - https://github.com/1N3/ReverseAPK
 
 ## Frameworks
 - Router Exploitation - https://github.com/threat9/routersploit
