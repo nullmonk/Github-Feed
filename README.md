@@ -63,6 +63,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Automate Bloodhound attack paths - https://github.com/GoFetchAD/GoFetch
 - Bloodhound attacking - https://github.com/porterhau5/BloodHound-Owned
 - Mini VNC server for redteam - https://github.com/rsmudge/vncdll
+- NTLM web attacks - https://github.com/grutz/squirtle
+- Elevate windows tokens - https://github.com/0xbadjuju/Tokenvator
 
 
 
@@ -72,6 +74,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Dump in-memory code modifications - https://github.com/hasherezade/pe-sieve
 - Automate Virus/Cleanup tasks - https://github.com/bmrf/tron
 - Find WMI persistence - https://github.com/darkquasar/WMI_Persistence
+- Harden Windows - https://github.com/securitywithoutborders/hardentools
 
 ## General Red team
 - Auto Install Pentest Tools - https://github.com/trustedsec/ptf
