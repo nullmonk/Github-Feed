@@ -36,6 +36,11 @@ Repositories that I have found and liked, There was too many in my stars
 - Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
 - Pam Backdoor - https://github.com/jrozner/poovey/tree/master/module
 
+### Linux Rootkits
+- WIP 4.x rootkit - https://github.com/QuokkaLight/rkduck
+- Sample rootkit - https://github.com/PinkP4nther/Sutekh
+- GPU rootkit example - https://github.com/gen0cide/jellyfish
+
 
 ## Linux Random Scripts
 - privesc/postexp - https://github.com/darkerego/0hw3ll
