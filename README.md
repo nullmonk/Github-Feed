@@ -13,6 +13,13 @@ Repositories that I have found and liked, There was too many in my stars
 - OSInt Lists - https://github.com/IVMachiavelli/OSINT_Team_Links
 - Mass OSINT list - https://github.com/jivoi/awesome-osint
 - Github Secrets finder - https://github.com/dxa4481/truffleHog
+- Github recon - https://github.com/michenriksen/gitrob
+- Find profiles based on image and name - https://github.com/ThoughtfulDev/EagleEye
+- Non-api Linked in scraper - https://github.com/dchrastil/ScrapedIn
+- Find usernames based on Namecheck - https://github.com/HA71/Namechk
+- OSINT scraping framework - https://github.com/xillwillx/skiptracer
+
+
 
 ## Linux Advanced Tools
 - Pop the kernel - https://github.com/spencerdodd/kernelpop
