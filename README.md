@@ -18,7 +18,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Non-api Linked in scraper - https://github.com/dchrastil/ScrapedIn
 - Find usernames based on Namecheck - https://github.com/HA71/Namechk
 - OSINT scraping framework - https://github.com/xillwillx/skiptracer
-
+- Wayback Scraper - https://github.com/jsvine/waybackpack
 
 
 ## Linux Advanced Tools
@@ -30,6 +30,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Share the console again - https://github.com/nopernik/SSHPry2.0
 - Pfsense Malware - https://github.com/joe-graham/dad-and-son
 - Shellcode inject - https://github.com/Srakai/Adun
+- Modify ELF files - https://github.com/schieb/ELFManip
+- Modify ELF files - https://github.com/mfaerevaag/elfinjector
 
 
 ## Linux Small Tools
@@ -38,6 +40,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Steal SSH Passwords, Better mimipenguin - https://github.com/blendin/3snake
 - Steal SSH Passwords - https://github.com/mthbernardes/sshLooter
 - Steal passwords from memory - https://github.com/huntergregal/mimipenguin
+- Steal root passwords from sudo - https://github.com/CoolerVoid/rootstealer
 - Reverse SSH command execution - https://github.com/feexd/vbg
 - Linux Exploit Suggester 2 - https://github.com/jondonas/linux-exploit-suggester-2
 - Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
@@ -47,6 +50,7 @@ Repositories that I have found and liked, There was too many in my stars
 - WIP 4.x rootkit - https://github.com/QuokkaLight/rkduck
 - Sample rootkit - https://github.com/PinkP4nther/Sutekh
 - GPU rootkit example - https://github.com/gen0cide/jellyfish
+- Containerizing Rootkit - https://github.com/r00tkillah/HORSEPILL
 
 
 ## Linux Random Scripts
@@ -89,18 +93,23 @@ Repositories that I have found and liked, There was too many in my stars
 - Harden Windows - https://github.com/securitywithoutborders/hardentools
 
 ## General Red team
-- Auto Install Pentest Tools - https://github.com/trustedsec/ptf
 - Shell Oneliner Generation - https://github.com/operatorequals/oneliner-sh
 - Better version of ^^ - https://github.com/0x00-0x00/ShellPop
 - Sniff Traffic - https://github.com/DanMcInerney/net-creds
 - Get Passwords - https://github.com/AlessandroZ/LaZagne
 - MITM DNS - https://github.com/LeonardoNve/dns2proxy
 - Strip SSL - https://github.com/LeonardoNve/sslstrip2
-- Automatic Infrastructure - https://github.com/obscuritylabs/RAI
 - C2 Concept using a broswer - https://github.com/Arno0x/WSC2
 - Go Ransomware - https://github.com/redpois0n/cry
 - Secrets collector in Go - https://github.com/ahhh/GoRedLoot
 - Gscript Examples - https://github.com/ahhh/gscripts
+### Infrastructure Tools
+- Automatic Infrastructure - https://github.com/obscuritylabs/RAI
+- Auto Install Pentest Tools - https://github.com/trustedsec/ptf
+- Infrastructure Management Tool - https://github.com/evait-security/envizon
+- Redteam Domain Tracking - https://github.com/GhostManager/Shepherd
+- Automattic SIEM deployment for RT - https://github.com/SecurityRiskAdvisors/RedTeamSIEM
+- RT Infra. Setup and Notes - https://github.com/ztgrace/red_team_telemetry
 
 ## Mobile
 - Android dynamic analysis - https://github.com/pjlantz/droidbox
