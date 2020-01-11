@@ -22,6 +22,7 @@ Repositories that I have found and liked, There was too many in my stars
 
 
 ## Linux Advanced Tools
+- Python DNS C2/Beacon - https://github.com/facebookincubator/WEASEL
 - Pop the kernel - https://github.com/spencerdodd/kernelpop
 - Process Injection - https://github.com/gaffe23/linux-inject
 - More Process Injection? - https://github.com/SoldierX/libhijack
@@ -32,6 +33,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Shellcode inject - https://github.com/Srakai/Adun
 - Modify ELF files - https://github.com/schieb/ELFManip
 - Modify ELF files - https://github.com/mfaerevaag/elfinjector
+- Monitor Executed Commands - https://github.com/itsKindred/procSpy
+
 
 
 ## Linux Small Tools
@@ -45,8 +48,10 @@ Repositories that I have found and liked, There was too many in my stars
 - Linux Exploit Suggester 2 - https://github.com/jondonas/linux-exploit-suggester-2
 - Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
 - Pam Backdoor - https://github.com/jrozner/poovey/tree/master/module
+- Load ELF into memory - https://github.com/rek7/fireELF
+- Sudo Misconfiguration detector - https://github.com/TH3xACE/SUDO_KILLER
 
-### Linux Rootkits
+## Linux Rootkits
 - WIP 4.x rootkit - https://github.com/QuokkaLight/rkduck
 - Sample rootkit - https://github.com/PinkP4nther/Sutekh
 - GPU rootkit example - https://github.com/gen0cide/jellyfish
@@ -81,7 +86,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Mini VNC server for redteam - https://github.com/rsmudge/vncdll
 - NTLM web attacks - https://github.com/grutz/squirtle
 - Elevate windows tokens - https://github.com/0xbadjuju/Tokenvator
-
+- File Search Tool  - https://github.com/vivami/SauronEye
+- Generate Stealthy Malicious Links - https://github.com/xillwillx/tricky.lnk
 
 
 ## Windows Defensive
@@ -103,6 +109,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Go Ransomware - https://github.com/redpois0n/cry
 - Secrets collector in Go - https://github.com/ahhh/GoRedLoot
 - Gscript Examples - https://github.com/ahhh/gscripts
+
 ### Infrastructure Tools
 - Automatic Infrastructure - https://github.com/obscuritylabs/RAI
 - Auto Install Pentest Tools - https://github.com/trustedsec/ptf
@@ -129,6 +136,7 @@ Repositories that I have found and liked, There was too many in my stars
 - WebApp pentesting Framework - https://github.com/owtf/owtf
 - MITM Framwork - https://github.com/byt3bl33d3r/MITMf
 - Wireless Auditing Framework - https://github.com/v1s1t0r1sh3r3/airgeddon
+- PCAP Dissection Framework - https://github.com/USArmyResearchLab/Dshell
 
 
 ## Knowledge
@@ -144,6 +152,11 @@ Repositories that I have found and liked, There was too many in my stars
 - x86 and Shellcode Tutorials - https://github.com/Kan1shka9/x86-Assembly-Language-and-Shellcoding-on-Linux
 - OSCP Notes and Help - https://github.com/ferreirasc/oscp
 - Massive Repository of scripts for pentesting - https://github.com/maldevel/PenTestKit
+
+
+
+## Boot Load Games
+- Invaders - https://github.com/nanochess/Invaders
 
 
 ## Lists
@@ -164,6 +177,10 @@ Repositories that I have found and liked, There was too many in my stars
 
 ## Reverse Engineering
 - Auto disassembler - https://github.com/isislab/dispatch
+
+## Network Defense
+- DNS Sniffer and Logger - https://github.com/droberson/greylost
+- Traffic Monitoring System - https://github.com/stamparm/maltrail
 
 ## Random
 - Pentest Vuln Scanner - https://github.com/1N3/Sn1per
