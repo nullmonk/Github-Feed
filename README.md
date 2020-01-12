@@ -34,6 +34,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Modify ELF files - https://github.com/schieb/ELFManip
 - Modify ELF files - https://github.com/mfaerevaag/elfinjector
 - Monitor Executed Commands - https://github.com/itsKindred/procSpy
+- Reverse SSH Implant - https://github.com/dsnezhkov/SSHoRTy
 
 
 
@@ -49,6 +50,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
 - Pam Backdoor - https://github.com/jrozner/poovey/tree/master/module
 - Load ELF into memory - https://github.com/rek7/fireELF
+- RUn ELF from memory - https://github.com/guitmz/memrun
 - Sudo Misconfiguration detector - https://github.com/TH3xACE/SUDO_KILLER
 
 ## Linux Rootkits
@@ -65,6 +67,7 @@ Repositories that I have found and liked, There was too many in my stars
 ## Linux Defensive
 - Change detection - https://github.com/anvilventures/dawgmon
 - Blue team scripts (might not be good) - https://github.com/maldevel/blue-team
+- Kernel Mode Iptables - https://github.com/CoolerVoid/HiddenWall
 
 
 ## Windows Offensive
@@ -88,6 +91,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Elevate windows tokens - https://github.com/0xbadjuju/Tokenvator
 - File Search Tool  - https://github.com/vivami/SauronEye
 - Generate Stealthy Malicious Links - https://github.com/xillwillx/tricky.lnk
+- Kernel Implant - https://github.com/eLoopWoo/zwhawk
 
 
 ## Windows Defensive
@@ -97,6 +101,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Automate Virus/Cleanup tasks - https://github.com/bmrf/tron
 - Find WMI persistence - https://github.com/darkquasar/WMI_Persistence
 - Harden Windows - https://github.com/securitywithoutborders/hardentools
+- PE file analysis - https://github.com/merces/pev
 
 ## General Red team
 - Shell Oneliner Generation - https://github.com/operatorequals/oneliner-sh
