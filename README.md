@@ -187,6 +187,13 @@ Repositories that I have found and liked, There was too many in my stars
 - DNS Sniffer and Logger - https://github.com/droberson/greylost
 - Traffic Monitoring System - https://github.com/stamparm/maltrail
 
+
+## HAM Radio
+- Broadband-Hamnet utilities - https://github.com/argilo/bbhn-utils
+- Virtual TNC - https://github.com/wb2osz/direwolf
+- Anonymous radio chat - https://github.com/lulzlabs/AirChat
+- Low Band Chatting - https://bitbucket.org/widefido/js8call/src/js8call/
+
 ## Random
 - Pentest Vuln Scanner - https://github.com/1N3/Sn1per
 - MSF knockoff - https://github.com/spencerdodd/pysploit
@@ -201,3 +208,4 @@ Repositories that I have found and liked, There was too many in my stars
 - Callback through various types (Add gawk, ex. to this) - https://github.com/0x00-0x00/Shellkiller/
 - C2 Via FireFox Send - https://github.com/dsnezhkov/foxtrot
 - Inject Code into Chrome Extensions - https://github.com/6IX7ine/cromos
+
