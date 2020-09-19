@@ -54,6 +54,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Run ELF from memory - https://github.com/guitmz/memrun
 - Sudo Misconfiguration detector - https://github.com/TH3xACE/SUDO_KILLER
 - SSH Backdoor Generator - https://github.com/nccgroup/SSHession
+- Linux PostExp Framework - https://github.com/zMarch/Orc
 
 ## Linux Rootkits
 - WIP 4.x rootkit - https://github.com/QuokkaLight/rkduck
@@ -204,6 +205,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Virtual TNC - https://github.com/wb2osz/direwolf
 - Anonymous radio chat - https://github.com/lulzlabs/AirChat
 - Low Band Chatting - https://bitbucket.org/widefido/js8call/src/js8call/
+- Tempest over SDR - https://github.com/martinmarinov/TempestSDR
 
 
 ## Modern Command Line Tools
@@ -212,6 +214,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Make JSON Grepable - https://github.com/tomnomnom/gron
 - Deofuscated strings - https://github.com/fireeye/flare-floss
 - Protobuf decoder - https://github.com/mildsunrise/protobuf-inspector
+- JSON Incremental digger - https://github.com/simeji/jid
+- curl save to sqlite - https://github.com/schollz/squirrel
 
 ## Random
 - Pentest Vuln Scanner - https://github.com/1N3/Sn1per
