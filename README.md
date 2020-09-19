@@ -33,6 +33,7 @@ Repositories that I have found and liked, There was too many in my stars
 - Shellcode inject - https://github.com/Srakai/Adun
 - Modify ELF files - https://github.com/schieb/ELFManip
 - Modify ELF files - https://github.com/mfaerevaag/elfinjector
+- Modify ELF files - https://github.com/zznop/drow
 - Monitor Executed Commands - https://github.com/itsKindred/procSpy
 - Reverse SSH Implant - https://github.com/dsnezhkov/SSHoRTy
 
@@ -50,8 +51,9 @@ Repositories that I have found and liked, There was too many in my stars
 - Perstience Binaries - https://github.com/GTFOBins/GTFOBins.github.io
 - Pam Backdoor - https://github.com/jrozner/poovey/tree/master/module
 - Load ELF into memory - https://github.com/rek7/fireELF
-- RUn ELF from memory - https://github.com/guitmz/memrun
+- Run ELF from memory - https://github.com/guitmz/memrun
 - Sudo Misconfiguration detector - https://github.com/TH3xACE/SUDO_KILLER
+- SSH Backdoor Generator - https://github.com/nccgroup/SSHession
 
 ## Linux Rootkits
 - WIP 4.x rootkit - https://github.com/QuokkaLight/rkduck
@@ -92,6 +94,10 @@ Repositories that I have found and liked, There was too many in my stars
 - File Search Tool  - https://github.com/vivami/SauronEye
 - Generate Stealthy Malicious Links - https://github.com/xillwillx/tricky.lnk
 - Kernel Implant - https://github.com/eLoopWoo/zwhawk
+- Steal Word Document Contents - https://github.com/danielwolfmann/Invoke-WordThief
+- Ring 3 Rootkit - https://github.com/bytecode77/r77-rootkit
+- RDP in Golang - https://github.com/icodeface/grdp
+
 
 
 ## Windows Defensive
@@ -122,8 +128,11 @@ Repositories that I have found and liked, There was too many in my stars
 - Redteam Domain Tracking - https://github.com/GhostManager/Shepherd
 - Automattic SIEM deployment for RT - https://github.com/SecurityRiskAdvisors/RedTeamSIEM
 - RT Infra. Setup and Notes - https://github.com/ztgrace/red_team_telemetry
+- Dynamic DNS Rebinding server - https://github.com/brannondorsey/whonow
+- File Hosting server - https://github.com/kgretzky/pwndrop
 
 ## Mobile
+- Android Security List - https://github.com/jdonsec/AllThingsAndroid
 - Android dynamic analysis - https://github.com/pjlantz/droidbox
 - Android dynamic analysis - https://github.com/ac-pm/Inspeckage
 - Frida Frontend for android - https://github.com/nccgroup/house
@@ -132,6 +141,8 @@ Repositories that I have found and liked, There was too many in my stars
 - Android unpacker - https://github.com/strazzere/android-unpacker
 - Android app analysis - https://github.com/ernw/AndroTickler
 - Reverse APK's - https://github.com/1N3/ReverseAPK
+- Reverse protobuf from APK - https://github.com/marin-m/pbtk
+- Reverse APK - https://github.com/xtiankisutsa/MARA_Framework
 
 ## Frameworks
 - Router Exploitation - https://github.com/threat9/routersploit
@@ -194,6 +205,14 @@ Repositories that I have found and liked, There was too many in my stars
 - Anonymous radio chat - https://github.com/lulzlabs/AirChat
 - Low Band Chatting - https://bitbucket.org/widefido/js8call/src/js8call/
 
+
+## Modern Command Line Tools
+- Better Strings - https://github.com/glmcdona/strings2
+- JSON Commandline query tool - https://github.com/tidwall/jj
+- Make JSON Grepable - https://github.com/tomnomnom/gron
+- Deofuscated strings - https://github.com/fireeye/flare-floss
+- Protobuf decoder - https://github.com/mildsunrise/protobuf-inspector
+
 ## Random
 - Pentest Vuln Scanner - https://github.com/1N3/Sn1per
 - MSF knockoff - https://github.com/spencerdodd/pysploit
@@ -208,4 +227,5 @@ Repositories that I have found and liked, There was too many in my stars
 - Callback through various types (Add gawk, ex. to this) - https://github.com/0x00-0x00/Shellkiller/
 - C2 Via FireFox Send - https://github.com/dsnezhkov/foxtrot
 - Inject Code into Chrome Extensions - https://github.com/6IX7ine/cromos
+- SSL Validation and Error Checking Tool - https://github.com/CiscoCXSecurity/sslxray
 
